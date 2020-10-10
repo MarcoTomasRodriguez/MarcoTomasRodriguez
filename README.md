@@ -12,7 +12,7 @@ Besides my open-source projects, I have worked as/on:
  - Developing management systems for a local furniture maker.
  - Developing a sales system for a tourism company in Tel-Aviv.
  
-### Communication skills
+#### Communication skills
 
  - English (bilingual)
  - Spanish (bilingual)
