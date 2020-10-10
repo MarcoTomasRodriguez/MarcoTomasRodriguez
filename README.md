@@ -6,7 +6,7 @@ I am a Software Engineer focused on backend development, distributed computing a
 
 #### Experience
 
-Besides my open-source projects, I've worked as/on:
+Besides my open-source projects, I have worked as/on:
 
  - Consultant in a local software development company who works with clients in the rural and automotive fields.
  - Developing management systems for a local furniture maker.
