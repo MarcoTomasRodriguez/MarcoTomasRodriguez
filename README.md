@@ -1,4 +1,4 @@
-### Marco Tomás Rodríguez - @MarcoTomasRodriguez
+### Marco Tomás Rodríguez
 
 #### About Me
 
