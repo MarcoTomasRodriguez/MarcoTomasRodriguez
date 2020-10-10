@@ -10,7 +10,7 @@ Besides my open-source projects, I have worked as/on:
 
  - Consultant in a local software development company who works with clients in the rural and automotive fields.
  - Developing management systems for a local furniture maker.
- - Developing a sales system for a tourism company in Tel Aviv.
+ - Developing a sales system for a tourism company in Tel-Aviv.
  
 ### Communication skills
 
