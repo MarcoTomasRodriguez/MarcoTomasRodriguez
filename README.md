@@ -21,12 +21,12 @@ Besides my open-source projects, I have worked as/on:
 #### Languages and Tools
 
 - Java/Kotlin - with Spring Boot
-- Javascript/Nodejs - with React, Express and Johnny-five (for embedded software)
-- Scala - with Apache Spark
+- Javascript/Typescript - with React, Express and Johnny-five (for embedded software)
+- Scala - with Apache Spark, Play Framework and Akka
 - Golang - microservices development with Gin and CLI development
 - Python - websites with Django, Flask, scrapers, embedded software with RPi.GPIO and machine learning with PyTorch.
 - C++ - with OpenCV
-- PostgreSQL, MySQL and MariaDB
+- RDBMS - PostgreSQL (mainly), MySQL and MariaDB
 - MongoDB
 - Redis
 
