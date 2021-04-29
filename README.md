@@ -34,6 +34,7 @@ Besides my open-source projects, I have worked as/on:
 
 <p align="left">
 <a href="https://github.com/MarcoTomasRodriguez">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcoTomasRodriguez&layout=compact&theme=vue-dark" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoTomasRodriguez&layout=compact&theme=vue-dark" />
 </a>
 </p>
