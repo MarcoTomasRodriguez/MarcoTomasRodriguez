@@ -16,7 +16,7 @@ Besides my open-source projects, I have worked as/on:
 
  - English (bilingual)
  - Spanish (bilingual)
- - German (basic/intermediate - still learning)
+ - German (intermediate)
 
 #### Languages and Tools
 
