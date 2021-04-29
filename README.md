@@ -12,7 +12,7 @@ Besides my open-source projects, I have worked as/on:
  - Developing management systems for a local furniture maker.
  - Developing a sales system for a tourism company in Tel-Aviv.
  
-#### Communication skills
+#### Spoken Languages
 
  - English (bilingual)
  - Spanish (bilingual)
@@ -30,10 +30,10 @@ Besides my open-source projects, I have worked as/on:
 - MySQL/MariaDB
 - MongoDB
 - Redis
+- Apache Kafka
+- MQTT
 
 <p align="left">
-<a href="https://github.com/MarcoTomasRodriguez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcoTomasRodriguez&layout=compact&theme=vue-dark" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcoTomasRodriguez&layout=compact&theme=vue-dark" />
-</a>
 </p>
