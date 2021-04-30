@@ -1,4 +1,4 @@
-### Marco Tomás Rodríguez
+### [Marco Tomás Rodríguez](https://marcotomasrodriguez.vercel.app/)
 
 #### About Me
 
@@ -6,11 +6,10 @@ I am a Software Engineer focused on backend development, distributed computing a
 
 #### Experience
 
-Besides my open-source projects, I have worked as/on:
+Besides my open-source projects, I have worked as:
 
- - Consultant in a local software development company who works with clients in the rural and automotive fields.
- - Developing management systems for a local furniture maker.
- - Developing a sales system for a tourism company in Tel-Aviv.
+ - 2020 - 2021 Software Engineer @ Bluesensor
+ - 2019 - 2020 Independent Software Consultant
  
 #### Spoken Languages
 
