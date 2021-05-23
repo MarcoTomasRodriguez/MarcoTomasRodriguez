@@ -19,11 +19,11 @@ Besides my open-source projects, I have worked as:
 
 #### Technologies
 
-- Scala (w/ Cats, ZIO, Akka, Spark, Play)
+- Scala (w/ Cats, FS2, Http4s, Akka, Play, Spark)
 - Java/Kotlin (w/ Spring Boot, Project Reactor)
 - Javascript/Typescript (w/ React, Angular, Express, NestJS, RxJS, Johnny-Five)
 - Go (w/ Fiber)
-- Python (w/ Django, Flask, RPi.GPIO, PyTorch)
+- Python (w/ FastAPI, Flask, RPi.GPIO, PyTorch)
 - C++ (w/ OpenCV)
 - PostgreSQL (w/ TimescaleDB, PostGIS)
 - MySQL/MariaDB
