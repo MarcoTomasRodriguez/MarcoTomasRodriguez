@@ -8,8 +8,8 @@ I am a Software Engineer focused on backend development, distributed computing a
 
 Besides my open-source projects, I have worked as:
 
- - 2020 - Present | Software Engineer @ Bluesensor
- - 2019 - Present | Independent Software Consultant
+ - Oct 2020 - Jul 2021 | Software Engineer @ Bluesensor
+ - Feb 2019 - Present | Independent Software Consultant
  
 #### Spoken Languages
 
