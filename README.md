@@ -8,8 +8,8 @@ I am a Software Engineer focused on backend development, distributed computing a
 
 Besides my open-source projects, I have worked as:
 
- - Oct 2020 - Jul 2021 | Software Engineer @ Bluesensor
- - Feb 2019 - Present | Independent Software Consultant
+- Feb 2019 - Present | Independent Software Consultant
+- Oct 2020 - Jul 2021 | Software Engineer @ Bluesensor
  
 #### Spoken Languages
 
@@ -19,18 +19,20 @@ Besides my open-source projects, I have worked as:
 
 #### Technologies
 
+- Java / Kotlin (w/ Spring Boot, Project Reactor)
 - Scala (w/ Cats, FS2, Http4s, Akka, Play, Spark)
-- Java/Kotlin (w/ Spring Boot, Project Reactor)
-- Javascript/Typescript (w/ React, Angular, Express, NestJS, RxJS, Johnny-Five)
+- Javascript / Typescript (w/ React, Angular, Express, NestJS, RxJS, Johnny-Five)
 - Go (w/ Fiber)
-- Python (w/ FastAPI, Flask, RPi.GPIO, PyTorch)
+- Python (w/ FastAPI, Flask, Gpiozero, PyTorch)
 - C++ (w/ OpenCV)
 - PostgreSQL (w/ TimescaleDB, PostGIS)
-- MySQL/MariaDB
+- MySQL
 - MongoDB
 - Redis
 - Apache Kafka
 - MQTT
+- Docker
+- Kubernetes
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcoTomasRodriguez&layout=compact&theme=vue-dark" />
