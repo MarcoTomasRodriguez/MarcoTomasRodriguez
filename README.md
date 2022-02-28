@@ -1,8 +1,8 @@
-## Marco Tomás Rodríguez
+## [Marco Tomás Rodríguez](https://www.marcotomasrodriguez.com)
 
-#### About Me
+#### Summary
 
-I am a Software Engineer focused on backend development, distributed computing and functional programming. I love to learn and bring ideas to reality.
+Software Engineer with 4+ years of experience in backend and systems engineering. I help companies design, architect, and develop maintainable business solutions.
 
 #### Experience
 
@@ -17,19 +17,6 @@ Besides my open-source projects, I have worked as:
  - Spanish (bilingual)
  - German (intermediate)
 
-#### Technologies
+#### Skills
 
-- Java / Kotlin (w/ Spring Boot, Project Reactor)
-- Scala (w/ Cats, FS2, Http4s, Akka, Play, Spark)
-- Javascript / Typescript (w/ React, Angular, Express, NestJS, RxJS, Johnny-Five)
-- Go (w/ Fiber)
-- Python (w/ FastAPI, Flask, Gpiozero, PyTorch)
-- C++ (w/ OpenCV)
-- PostgreSQL (w/ TimescaleDB, PostGIS)
-- MySQL
-- MongoDB
-- Redis
-- Apache Kafka
-- MQTT
-- Docker
-- Kubernetes
+Go • JavaScript/Typescript/Node.js • React.js •  Java • Kotlin • Python • C++ •  SQL • PostgreSQL • MySQL • MongoDB  • Redis • Apache Kafka • WebSocket • MQTT • Communication Protocols •  Linux/Unix • Git • Docker • Kubernetes • AWS / GCP •  Automated Testing • CI/CD • Internet of Things (IoT) • Design Patterns  • Object Oriented Programming (OOP) • Functional Programming (FP)
