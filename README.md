@@ -8,14 +8,14 @@ Software Engineer with 4+ years of experience in backend and systems engineering
 
 Besides my open-source projects, I have worked as:
 
-- Oct 2020 - Present | Software Engineer @ BlueSensor IoT
-- Feb 2019 - Present | Independent Software Consultant
+- **Software Engineer** @ BlueSensor IoT | Oct 2020 - Present
+- **Independent Software Consultant** | Feb 2019 - Present
  
 #### Spoken Languages
 
- - English (bilingual)
- - Spanish (bilingual)
- - German (intermediate)
+- **Spanish** / Native
+- **English** / Proficiency - C2
+- **German** / Intermediate - B2
 
 #### Skills
 
