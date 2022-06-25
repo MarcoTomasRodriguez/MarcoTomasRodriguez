@@ -8,7 +8,7 @@ Software Engineer with 4+ years of experience in backend and systems engineering
 
 Besides my open-source projects, I have worked as:
 
-- **Software Engineer @ BlueSensor IoT** | Oct 2020 - Present
+- **Software Engineer @ BlueSensor IoT** | Oct 2020 - Jun 2022
 - **Independent Software Consultant** | Feb 2019 - Present
  
 #### Spoken Languages
