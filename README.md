@@ -19,10 +19,10 @@ Besides my open-source projects, I have worked as:
 
 #### Skills
 
-- Programming Languages: Java • Go • Typescript • Python • Scala
-- Frameworks / Libraries: Spring Boot • Nest.js  • Express.js  •  React.js  • Angular
-- Databases: PostgreSQL • MySQL • MongoDB • Redis • TimescaleDB
-- DevOps: Git • Linux System Administration •  Docker • Kubernetes • Gitlab CI • GitHub Actions
-- Cloud Providers: Amazon Web Services • Google Cloud Platform
-- Concepts:  Agile • TDD & BDD  •  CI/CD • OOP  • FP • IoT
-- Other:  Apache Kafka • RabbitMQ  • WebSockets  • Server Sent Events (SSE) • MQTT
+- **Programming Languages:** Java • Go • Typescript • Python • Scala
+- **Frameworks / Libraries:** Spring Boot • Nest.js • Express.js •  React.js • Angular
+- **Databases:** PostgreSQL • MySQL • MongoDB • Redis • TimescaleDB
+- **DevOps:** Git • Linux System Administration •  Docker • Kubernetes • Gitlab CI • GitHub Actions
+- **Cloud Providers:** Amazon Web Services • Google Cloud Platform
+- **Concepts:** Agile • TDD & BDD • CI/CD • OOP • FP • IoT
+- **Other:** Apache Kafka • RabbitMQ • WebSockets • Server Sent Events (SSE) • MQTT
