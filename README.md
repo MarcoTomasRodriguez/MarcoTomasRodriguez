@@ -26,3 +26,7 @@ Besides my open-source projects, I have worked as:
 - **Cloud Providers:** Amazon Web Services • Google Cloud Platform
 - **Concepts:** Agile • TDD & BDD • CI/CD • OOP • FP • IoT
 - **Other:** Apache Kafka • RabbitMQ • WebSockets • Server Sent Events (SSE) • MQTT
+
+#### Resume
+
+[Download Resume](https://storage.googleapis.com/storage.marcotomasrodriguez.com/resume/Marco%20Tomas%20Rodriguez%20-%20Resume.pdf)
