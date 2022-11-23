@@ -2,21 +2,27 @@
 
 #### Summary
 
-Software Engineer with 4+ years of experience in backend and systems engineering. I help companies design, architect, and develop maintainable business solutions.
+Software Engineer with 4+ years of experience in backend and systems engineering.
 
 #### Experience
 
 Besides my open-source projects, I have worked as:
 
-- **Software Engineer @ BlueSensor IoT** | Oct 2020 - Jun 2022
-- **Independent Software Consultant** | Feb 2019 - Present
+- **Software Engineer  @ Thinking Minds** | Jun 2022 - Present
+- **Backend Software Engineer @ BlueSensor** | Oct 2020 - Jun 2022
  
 #### Spoken Languages
 
 - **Spanish** / Native
-- **English** / Proficiency - C2
-- **German** / Intermediate - B2
+- **English** / Proficiency
+- **German** / Proficiency
 
 #### Skills
 
-Go • JavaScript/Typescript/Node.js • React.js •  Java • Kotlin • Python • C++ •  SQL • PostgreSQL • MySQL • MongoDB  • Redis • Apache Kafka • WebSocket • MQTT • Communication Protocols •  Linux/Unix • Git • Docker • Kubernetes • AWS / GCP •  Automated Testing • CI/CD • Internet of Things (IoT) • Design Patterns  • Object Oriented Programming (OOP) • Functional Programming (FP)
+- Programming Languages: Java • Go • Typescript • Python • Scala
+- Frameworks / Libraries: Spring Boot • Nest.js  • Express.js  •  React.js  • Angular
+- Databases: PostgreSQL • MySQL • MongoDB • Redis • TimescaleDB
+- DevOps: Git • Linux System Administration •  Docker • Kubernetes • Gitlab CI • GitHub Actions
+- Cloud Providers: Amazon Web Services • Google Cloud Platform
+- Concepts:  Agile • TDD & BDD  •  CI/CD • OOP  • FP • IoT
+- Other:  Apache Kafka • RabbitMQ  • WebSockets  • Server Sent Events (SSE) • MQTT
