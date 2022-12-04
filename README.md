@@ -6,8 +6,6 @@ Software Engineer with 4+ years of experience in backend and systems engineering
 
 #### Experience
 
-Besides my open-source projects, I have worked as:
-
 - **Software Engineer  @ Thinking Minds** | Jun 2022 - Present
 - **Backend Software Engineer @ BlueSensor** | Oct 2020 - Jun 2022
  
