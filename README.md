@@ -2,18 +2,18 @@
 
 #### Summary
 
-Software Engineer with 4+ years of experience in backend and systems engineering.
+Software Engineer with more than three years of experience in backend and systems engineering.
 
 #### Experience
 
-- **Software Engineer  @ Thinking Minds** | Jun 2022 - Present
-- **Backend Software Engineer @ BlueSensor** | Oct 2020 - Jun 2022
+- **Software Engineer  @ Thinking Minds** | Jul 2022 - Present
+- **Backend Software Engineer @ BlueSensor** | Aug 2020 - Jul 2022
  
 #### Spoken Languages
 
 - **Spanish** / Native
 - **English** / Proficiency
-- **German** / Proficiency
+- **German** / Working Proficiency
 
 #### Skills
 
