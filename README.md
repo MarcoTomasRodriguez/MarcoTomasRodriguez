@@ -2,7 +2,7 @@
 
 #### Summary
 
-Software Engineer with more than three years of experience in backend and systems engineering.
+Software Engineer with 3+ of experience in backend and systems engineering.
 
 #### Experience
 
@@ -17,13 +17,12 @@ Software Engineer with more than three years of experience in backend and system
 
 #### Skills
 
-- **Programming Languages:** Java • Go • Typescript • Python • Scala
+- **Programming Languages:** Java • Go • Typescript • Python • Kotlin • Scala
 - **Frameworks / Libraries:** Spring Boot • Nest.js • Express.js •  React.js • Angular
 - **Databases:** PostgreSQL • MySQL • MongoDB • Redis • TimescaleDB
-- **DevOps:** Git • Linux System Administration •  Docker • Kubernetes • Gitlab CI • GitHub Actions
 - **Cloud Providers:** Amazon Web Services • Google Cloud Platform
-- **Concepts:** Agile • TDD & BDD • CI/CD • OOP • FP • IoT
-- **Other:** Apache Kafka • RabbitMQ • WebSockets • Server Sent Events (SSE) • MQTT
+- **DevOps:** Git • Linux • Docker • Kubernetes • Gitlab CI • GitHub Actions
+- **Other:** Agile • TDD & BDD • CI/CD • OOP • FP • IoT • Apache Kafka • RabbitMQ • WebSockets • Server Sent Events (SSE) • MQTT
 
 #### Resume
 
