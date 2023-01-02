@@ -6,8 +6,10 @@ Software Engineer with 3+ of experience in backend and systems engineering.
 
 #### Experience
 
-- **Software Engineer  @ Thinking Minds** | Jul 2022 - Present
+- **Software Engineer  @ Thinking Minds** | Jul 2022 - Jan 2023
 - **Backend Software Engineer @ BlueSensor** | Aug 2020 - Jul 2022
+- **Full-Stack Software Developer (Freelance)** | Dec 2019 - Aug 2020
+
  
 #### Spoken Languages
 
@@ -26,4 +28,4 @@ Software Engineer with 3+ of experience in backend and systems engineering.
 
 #### Resume
 
-[Download Resume](https://storage.googleapis.com/storage.marcotomasrodriguez.com/resume/Marco%20Tomas%20Rodriguez%20-%20Resume.pdf)
+[Download Resume (PDF)](https://storage.googleapis.com/storage.marcotomasrodriguez.com/resume/Marco%20Tomas%20Rodriguez%20-%20Resume.pdf)
