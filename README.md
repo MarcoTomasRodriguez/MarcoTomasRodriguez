@@ -1,4 +1,4 @@
-## [Marco Tomás Rodríguez](https://www.marcotomasrodriguez.com)
+## Marco Tomás Rodríguez
 
 #### Summary
 
@@ -6,7 +6,7 @@ Software Engineer with 3+ of experience in backend and systems engineering.
 
 #### Experience
 
-- **Software Engineer  @ Thinking Minds** | Jul 2022 - Jan 2023
+- **Software Engineer (Core) @ Bikemap GmbH** | Feb 2023 - Present
 - **Backend Software Engineer @ BlueSensor** | Aug 2020 - Jul 2022
 - **Full-Stack Software Developer (Freelance)** | Dec 2019 - Aug 2020
 
