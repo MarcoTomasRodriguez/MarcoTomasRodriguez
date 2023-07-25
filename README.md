@@ -28,4 +28,4 @@ Software Engineer with 3+ of experience in backend and systems engineering.
 
 #### Resume
 
-[Download Resume (PDF)](https://storage.googleapis.com/storage.marcotomasrodriguez.com/resume/Marco%20Tomas%20Rodriguez%20-%20Resume.pdf)
+[Download Resume (PDF)](https://marcotomasrodriguez.vercel.app/resume)
