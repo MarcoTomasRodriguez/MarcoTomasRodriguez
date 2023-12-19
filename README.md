@@ -1,4 +1,4 @@
-## [Marco Tomás Rodríguez](https://marcotomasrodriguez.vercel.app)
+## [Marco Tomás Rodríguez](https://marcotomasrodriguez.com)
 
 #### Summary
 
@@ -14,18 +14,19 @@ Software Engineer with 3+ of experience in backend and systems engineering.
 #### Spoken Languages
 
 - **Spanish** / Native
-- **English** / Proficiency
-- **German** / Working Proficiency
+- **English** / Proficiency (C2)
+- **German** / Working Proficiency (C1)
 
 #### Skills
 
-- **Programming Languages:** Java • Go • Typescript • Python • Kotlin • Scala
-- **Frameworks / Libraries:** Spring Boot • Nest.js • Express.js •  React.js • Angular
-- **Databases:** PostgreSQL • MySQL • MongoDB • Redis • TimescaleDB
+- **Programming Languages:** Python • Go • Typescript • Java • Kotlin • Scala
+- **Databases:** PostgreSQL (w/ PostGIS & TimescaleDB)  •  MongoDB  •  Redis
+- **Frameworks / Libraries:**  Spring Boot • Django • NestJS • React • Angular
 - **Cloud Providers:** Amazon Web Services • Google Cloud Platform
 - **DevOps:** Git • Linux • Docker • Kubernetes • Gitlab CI • GitHub Actions
-- **Other:** Agile • TDD & BDD • CI/CD • OOP • FP • IoT • Apache Kafka • RabbitMQ • WebSockets • Server Sent Events (SSE) • MQTT
+- **Other:** Agile • Lean thinking • TDD & BDD • CI/CD •  OOP • FP •  Microservices • Event-driven Architectures • Apache Kafka
+- **Knowledge Fields:** Finance  •  Geographical Information Systems •  IoT
 
 #### Resume
 
-[Download Resume (PDF)](https://marcotomasrodriguez.vercel.app/resume)
+[Download Resume (PDF)](https://marcotomasrodriguez.com/resume)
