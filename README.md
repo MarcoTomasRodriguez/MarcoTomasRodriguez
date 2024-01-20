@@ -2,7 +2,7 @@
 
 #### Summary
 
-Software Engineer with 3+ of experience in backend and systems engineering.
+Software Engineer with 4 years of professional experience, passionate about solving challenging projects, bringing ideas to life, and delivering efficient and minimalistic solutions across diverse domains.
 
 #### Experience
 
